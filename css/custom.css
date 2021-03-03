@@ -1,0 +1,108 @@
+/*********************************************************************************
+
+	Template Name: Template Full Name Here
+	Description: A perfect template to build beautiful and unique medical websites. It comes with nice and clean design.
+	Version: 1.0
+
+	Note: This is custom css.
+
+**********************************************************************************/
+
+#rosita {
+	background-color: #f6d7dd;
+	
+}
+
+
+
+#letranegra {
+	color: black;
+}
+
+
+
+#fondoblanco {
+	background-color: white;
+}
+
+#fondogris {
+	background-color: #f6d7dd;
+}
+
+
+
+#aver {
+	background-image: url(../img/restaurant-two/fonditorosa.jpg);
+}
+
+/* rosa a header */
+#chofa {
+	background-color: #f6d7dd;
+}
+
+#margin {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+#sanchu {
+	margin-bottom: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+	
+}
+
+#botoon {
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #f6d7dd;
+
+
+}
+
+#pruebaaa {
+	
+	
+}
+
+
+#botooon {
+
+	border-radius: 10px;
+	background-color: white;
+	margin-left: 500px;
+	max-width: 100%;
+	color: black;
+	padding-bottom: 20px;
+	
+	
+}
+
+
+		
+		@media (max-width: 600px)
+		 {
+			#botooon {
+				margin-left: 60px;
+			}
+		}
+		@media (max-width: 600px)
+		 {
+			#suave {
+				margin-top: 40px;
+			}
+		}
+
+		#tano {
+			display: flex;
+		}
+
+		#elite{
+			margin-left: 90px;
+			margin-right: 10px;
+			
+		}
+
+		#demo {
+			color: black;
+		}
